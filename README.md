@@ -1,6 +1,7 @@
-# arduino-nitrox-analyzer
-This is nitrox analyzer based on Arduino compatible board.
+# OxiKit Sensor Bench Firmware
 
-Please find more detail on my blog.
+This is currently available for 3 oxygen sensor
 
-https://ejlabs.net/arduino-oled-nitrox-analyzer/
+Install following libraries from Arduino Library Manager
+- Adafruit_ADS1X15
+- RunningAverage
